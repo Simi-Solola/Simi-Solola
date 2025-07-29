@@ -1,8 +1,8 @@
 
 # Welcome👋🏾
-[![Linkedin Badge](https://img.shields.io/badge/-Solola%20Olubusayo%20Simisola-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/solola-o-simisola/)](https://www.linkedin.com/in/solola-o-simisola/)
-[![Twitter Badge](https://img.shields.io/badge/-@ssimisolaa-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/ssimisolaa)](https://x.com/ssimisolaa)
-[![Gmail Badge](https://img.shields.io/badge/-sololaolubusayo%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sololaolubusayo@gmail.com)](mailto:sololaolubusayo@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn%20Profile-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/solola-o-simisola/)](https://www.linkedin.com/in/solola-o-simisola/)
+[![Twitter Badge](https://img.shields.io/badge/-X%20Handle-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://x.com/ssimisolaa)](https://x.com/ssimisolaa)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sololaolubusayo@gmail.com)](mailto:sololaolubusayo@gmail.com)
 
 ## About Me 
 
