@@ -7,7 +7,7 @@
 ## About Me 
 
 My name is Olubusayo Solola, most people know me as *Simi*.
-I am a recent graduate from the University of Lagos and an emerging 
+I am a graduate from the University of Lagos and a 
 data scientist with keen interest in writing algorithms, building ML models 
 and demystisfying 'hard' stuff
 
