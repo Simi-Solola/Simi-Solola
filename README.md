@@ -20,8 +20,6 @@ fueling personal growth and community development. As a woman in tech, I am
 committed to creating impact, fostering innovation, and championing inclusive 
 progress through the power of data and algorithms.  
   
-🔍 *I am currently seeking Data Science internship opportunities where I can 
-apply my skills, grow professionally, and contribute to impactful projects.*
 
 #### 👨🏻‍💻 Languages and Tools <br />
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
